@@ -1,4 +1,4 @@
-package com.example.currencyconverter.data.network
+package com.example.currencyconverter.listeners
 
 import android.content.Context
 import android.net.ConnectivityManager

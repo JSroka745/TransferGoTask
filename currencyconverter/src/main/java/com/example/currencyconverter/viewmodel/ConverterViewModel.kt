@@ -8,8 +8,8 @@ import androidx.lifecycle.viewModelScope
 import com.example.currencyconverter.constants.StringConstants
 import com.example.currencyconverter.data.api.ApiResponse
 import com.example.currencyconverter.data.model.CurrencyCountry
-import com.example.currencyconverter.data.network.NetworkConnectivityObserver
-import com.example.currencyconverter.data.network.NetworkStatusListener
+import com.example.currencyconverter.listeners.NetworkConnectivityObserver
+import com.example.currencyconverter.listeners.NetworkStatusListener
 import com.example.currencyconverter.data.repository.CurrencyRepository
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay

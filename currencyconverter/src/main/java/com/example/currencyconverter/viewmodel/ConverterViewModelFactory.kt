@@ -3,7 +3,7 @@ package com.example.currencyconverter.viewmodel
 import android.app.Application
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.currencyconverter.data.network.NetworkConnectivityObserver
+import com.example.currencyconverter.listeners.NetworkConnectivityObserver
 import com.example.currencyconverter.data.repository.CurrencyRepository
 
 
