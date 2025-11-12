@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TransferGoTask"
 include(":app")
- 
+include(":currencyconverter")
